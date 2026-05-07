@@ -1,5 +1,5 @@
 {
-  "name":mone,
+  "name":afkbot,
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
@@ -12,9 +12,9 @@
   },
   "position": {
     "enabled": true,
-    "x":134,
+    "x":0,
     "y": 100,
-    "z": 0123
+    "z": 0
   },
   "utils": {
     "auto-auth": {
