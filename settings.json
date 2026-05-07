@@ -1,20 +1,20 @@
 {
-  "name": "AFK Bot",
+  "name":mone,
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "faketokenampnight.aternos.me",
+    "port": 11588
     "version": "1.21.1"
   },
   "position": {
     "enabled": true,
-    "x": 0,
+    "x":134,
     "y": 100,
-    "z": 0
+    "z": 0123
   },
   "utils": {
     "auto-auth": {
